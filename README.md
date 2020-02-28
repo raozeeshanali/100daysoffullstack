@@ -15,4 +15,6 @@
  2. **task 2**: colors in html.
  3. **Task 3**: dictionaries
  4. **task 4**: linking files to navbar.
- 
+     
+## day 3
+1.**TASK 1**: CREATE A PORTFOLOLIO SITE FOR SOLOTION ANYWHERE COMPANY.
