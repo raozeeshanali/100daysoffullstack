@@ -18,3 +18,6 @@
      
 ## day 3
 1.**TASK 1**: CREATE A PORTFOLOLIO SITE FOR SOLOTION ANYWHERE COMPANY.
+
+## Day4
+1.**Task 1**: [Basic CSS Styles] (https://heuristic-jones-7c2294.netlify.com/)
